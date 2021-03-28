@@ -10,6 +10,8 @@ npm install react-native-local-barcode-recognizer
 react-native link react-native-local-barcode-recognizer
 
 use this link for imrpovement https://www.programmersought.com/article/9470734262/
+And
+https://www.programmersought.com/article/41553813956/
 
 ```
 
